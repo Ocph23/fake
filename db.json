@@ -1,0 +1,602 @@
+  "students": [
+    {
+      "id": "S001",
+      "name": "Nisa Pratama",
+      "age": 15,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 72,
+        "English": 87,
+        "Informatics": 89,
+        "Science": 93
+      }
+    },
+    {
+      "id": "S002",
+      "name": "Mega Syahputra",
+      "age": 16,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 92,
+        "English": 85,
+        "Informatics": 67,
+        "Science": 88
+      }
+    },
+    {
+      "id": "S003",
+      "name": "Intan Rahmawati",
+      "age": 15,
+      "class": "X TKJ 1",
+      "grades": {
+        "Math": 69,
+        "English": 84,
+        "Informatics": 94,
+        "Science": 89
+      }
+    },
+    {
+      "id": "S004",
+      "name": "Tono Saputra",
+      "age": 16,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 75,
+        "English": 79,
+        "Informatics": 88,
+        "Science": 88
+      }
+    },
+    {
+      "id": "S005",
+      "name": "Lia Fadillah",
+      "age": 16,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 87,
+        "English": 89,
+        "Informatics": 75,
+        "Science": 67
+      }
+    },
+    {
+      "id": "S006",
+      "name": "Intan Kurniawan",
+      "age": 16,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 71,
+        "English": 77,
+        "Informatics": 82,
+        "Science": 93
+      }
+    },
+    {
+      "id": "S007",
+      "name": "Lia Firmansyah",
+      "age": 17,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 96,
+        "English": 82,
+        "Informatics": 99,
+        "Science": 71
+      }
+    },
+    {
+      "id": "S008",
+      "name": "Citra Wibowo",
+      "age": 16,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 97,
+        "English": 100,
+        "Informatics": 88,
+        "Science": 95
+      }
+    },
+    {
+      "id": "S009",
+      "name": "Intan Pratama",
+      "age": 17,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 100,
+        "English": 67,
+        "Informatics": 84,
+        "Science": 83
+      }
+    },
+    {
+      "id": "S010",
+      "name": "Citra Permata",
+      "age": 18,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 81,
+        "English": 86,
+        "Informatics": 91,
+        "Science": 95
+      }
+    },
+    {
+      "id": "S011",
+      "name": "Galih Wijaya",
+      "age": 16,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 68,
+        "English": 86,
+        "Informatics": 95,
+        "Science": 73
+      }
+    },
+    {
+      "id": "S012",
+      "name": "Rina Pratama",
+      "age": 18,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 88,
+        "English": 72,
+        "Informatics": 89,
+        "Science": 85
+      }
+    },
+    {
+      "id": "S013",
+      "name": "Bima Susanti",
+      "age": 16,
+      "class": "X RPL 2",
+      "grades": {
+        "Math": 81,
+        "English": 93,
+        "Informatics": 89,
+        "Science": 71
+      }
+    },
+    {
+      "id": "S014",
+      "name": "Siti Putra",
+      "age": 16,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 91,
+        "English": 91,
+        "Informatics": 65,
+        "Science": 81
+      }
+    },
+    {
+      "id": "S015",
+      "name": "Nisa Saputra",
+      "age": 16,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 91,
+        "English": 100,
+        "Informatics": 98,
+        "Science": 68
+      }
+    },
+    {
+      "id": "S016",
+      "name": "Hendra Syahputra",
+      "age": 18,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 96,
+        "English": 77,
+        "Informatics": 71,
+        "Science": 96
+      }
+    },
+    {
+      "id": "S017",
+      "name": "Bima Hidayat",
+      "age": 17,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 95,
+        "English": 89,
+        "Informatics": 66,
+        "Science": 98
+      }
+    },
+    {
+      "id": "S018",
+      "name": "Lia Pratama",
+      "age": 15,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 92,
+        "English": 83,
+        "Informatics": 95,
+        "Science": 70
+      }
+    },
+    {
+      "id": "S019",
+      "name": "Lia Firmansyah",
+      "age": 16,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 65,
+        "English": 83,
+        "Informatics": 99,
+        "Science": 67
+      }
+    },
+    {
+      "id": "S020",
+      "name": "Siti Kurniawan",
+      "age": 18,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 77,
+        "English": 97,
+        "Informatics": 68,
+        "Science": 84
+      }
+    },
+    {
+      "id": "S021",
+      "name": "Fajar Firmansyah",
+      "age": 17,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 73,
+        "English": 96,
+        "Informatics": 94,
+        "Science": 76
+      }
+    },
+    {
+      "id": "S022",
+      "name": "Galih Permata",
+      "age": 16,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 86,
+        "English": 68,
+        "Informatics": 100,
+        "Science": 76
+      }
+    },
+    {
+      "id": "S023",
+      "name": "Dewi Santoso",
+      "age": 17,
+      "class": "X TKJ 1",
+      "grades": {
+        "Math": 77,
+        "English": 92,
+        "Informatics": 80,
+        "Science": 89
+      }
+    },
+    {
+      "id": "S024",
+      "name": "Putri Kurniawan",
+      "age": 15,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 83,
+        "English": 84,
+        "Informatics": 92,
+        "Science": 94
+      }
+    },
+    {
+      "id": "S025",
+      "name": "Andi Fadillah",
+      "age": 18,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 65,
+        "English": 74,
+        "Informatics": 89,
+        "Science": 86
+      }
+    },
+    {
+      "id": "S026",
+      "name": "Lia Santoso",
+      "age": 18,
+      "class": "X TKJ 1",
+      "grades": {
+        "Math": 71,
+        "English": 93,
+        "Informatics": 66,
+        "Science": 91
+      }
+    },
+    {
+      "id": "S027",
+      "name": "Dewi Kurniawan",
+      "age": 17,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 95,
+        "English": 73,
+        "Informatics": 78,
+        "Science": 71
+      }
+    },
+    {
+      "id": "S028",
+      "name": "Agus Susanti",
+      "age": 18,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 76,
+        "English": 76,
+        "Informatics": 90,
+        "Science": 89
+      }
+    },
+    {
+      "id": "S029",
+      "name": "Bima Hidayat",
+      "age": 16,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 92,
+        "English": 96,
+        "Informatics": 70,
+        "Science": 97
+      }
+    },
+    {
+      "id": "S030",
+      "name": "Bayu Wibowo",
+      "age": 18,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 93,
+        "English": 74,
+        "Informatics": 91,
+        "Science": 92
+      }
+    },
+    {
+      "id": "S031",
+      "name": "Hendra Putra",
+      "age": 16,
+      "class": "X RPL 2",
+      "grades": {
+        "Math": 100,
+        "English": 91,
+        "Informatics": 97,
+        "Science": 82
+      }
+    },
+    {
+      "id": "S032",
+      "name": "Andi Permata",
+      "age": 15,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 91,
+        "English": 89,
+        "Informatics": 98,
+        "Science": 89
+      }
+    },
+    {
+      "id": "S033",
+      "name": "Agus Lestari",
+      "age": 17,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 79,
+        "English": 78,
+        "Informatics": 87,
+        "Science": 82
+      }
+    },
+    {
+      "id": "S034",
+      "name": "Citra Permata",
+      "age": 17,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 78,
+        "English": 67,
+        "Informatics": 75,
+        "Science": 71
+      }
+    },
+    {
+      "id": "S035",
+      "name": "Siti Santoso",
+      "age": 17,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 76,
+        "English": 76,
+        "Informatics": 98,
+        "Science": 66
+      }
+    },
+    {
+      "id": "S036",
+      "name": "Rina Wijaya",
+      "age": 17,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 86,
+        "English": 90,
+        "Informatics": 74,
+        "Science": 84
+      }
+    },
+    {
+      "id": "S037",
+      "name": "Mega Wibowo",
+      "age": 18,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 96,
+        "English": 69,
+        "Informatics": 77,
+        "Science": 68
+      }
+    },
+    {
+      "id": "S038",
+      "name": "Bayu Lestari",
+      "age": 15,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 65,
+        "English": 81,
+        "Informatics": 66,
+        "Science": 95
+      }
+    },
+    {
+      "id": "S039",
+      "name": "Siti Rahmawati",
+      "age": 15,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 78,
+        "English": 84,
+        "Informatics": 91,
+        "Science": 66
+      }
+    },
+    {
+      "id": "S040",
+      "name": "Lia Wibowo",
+      "age": 15,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 81,
+        "English": 82,
+        "Informatics": 76,
+        "Science": 90
+      }
+    },
+    {
+      "id": "S041",
+      "name": "Lia Wijaya",
+      "age": 18,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 97,
+        "English": 74,
+        "Informatics": 84,
+        "Science": 74
+      }
+    },
+    {
+      "id": "S042",
+      "name": "Intan Permata",
+      "age": 15,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 96,
+        "English": 95,
+        "Informatics": 92,
+        "Science": 92
+      }
+    },
+    {
+      "id": "S043",
+      "name": "Bayu Hidayat",
+      "age": 17,
+      "class": "X RPL 1",
+      "grades": {
+        "Math": 85,
+        "English": 87,
+        "Informatics": 87,
+        "Science": 77
+      }
+    },
+    {
+      "id": "S044",
+      "name": "Bima Saputra",
+      "age": 16,
+      "class": "X TKJ 1",
+      "grades": {
+        "Math": 74,
+        "English": 66,
+        "Informatics": 97,
+        "Science": 79
+      }
+    },
+    {
+      "id": "S045",
+      "name": "Agus Wibowo",
+      "age": 17,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 67,
+        "English": 68,
+        "Informatics": 85,
+        "Science": 78
+      }
+    },
+    {
+      "id": "S046",
+      "name": "Ayu Rahmawati",
+      "age": 18,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 90,
+        "English": 75,
+        "Informatics": 78,
+        "Science": 96
+      }
+    },
+    {
+      "id": "S047",
+      "name": "Ayu Pratama",
+      "age": 15,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 68,
+        "English": 94,
+        "Informatics": 65,
+        "Science": 91
+      }
+    },
+    {
+      "id": "S048",
+      "name": "Eko Susanti",
+      "age": 15,
+      "class": "X MM 1",
+      "grades": {
+        "Math": 93,
+        "English": 87,
+        "Informatics": 84,
+        "Science": 94
+      }
+    },
+    {
+      "id": "S049",
+      "name": "Ayu Kurniawan",
+      "age": 15,
+      "class": "X TKJ 2",
+      "grades": {
+        "Math": 67,
+        "English": 65,
+        "Informatics": 92,
+        "Science": 67
+      }
+    },
+    {
+      "id": "S050",
+      "name": "Galih Hidayat",
+      "age": 17,
+      "class": "X MM 2",
+      "grades": {
+        "Math": 81,
+        "English": 65,
+        "Informatics": 76,
+        "Science": 97
+      }
+    }
+  ]
