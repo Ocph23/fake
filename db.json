@@ -23,42 +23,6 @@
         "Informatics": 88,
         "Science": 79
       }
-    },
-    {
-      "id": "S003",
-      "name": "Dewi Lestari",
-      "age": 16,
-      "class": "X RPL 1",
-      "grades": {
-        "Math": 90,
-        "English": 87,
-        "Informatics": 95,
-        "Science": 84
-      }
-    },
-    {
-      "id": "S004",
-      "name": "Bima Kurniawan",
-      "age": 17,
-      "class": "X RPL 2",
-      "grades": {
-        "Math": 69,
-        "English": 75,
-        "Informatics": 81,
-        "Science": 72
-      }
-    },
-    {
-      "id": "S005",
-      "name": "Intan Maharani",
-      "age": 16,
-      "class": "X MM 1",
-      "grades": {
-        "Math": 88,
-        "English": 91,
-        "Informatics": 85,
-        "Science": 89
-      }
     }
   ]
 }
