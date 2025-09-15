@@ -1,4 +1,4 @@
-  "students": [
+  [
     {
       "id": "S001",
       "name": "Nisa Pratama",
@@ -58,40 +58,5 @@
         "Informatics": 75,
         "Science": 67
       }
-    },
-    {
-      "id": "S006",
-      "name": "Intan Kurniawan",
-      "age": 16,
-      "class": "X TKJ 2",
-      "grades": {
-        "Math": 71,
-        "English": 77,
-        "Informatics": 82,
-        "Science": 93
-      }
-    },
-    {
-      "id": "S007",
-      "name": "Lia Firmansyah",
-      "age": 17,
-      "class": "X TKJ 2",
-      "grades": {
-        "Math": 96,
-        "English": 82,
-        "Informatics": 99,
-        "Science": 71
-      }
-    },
-    {
-      "id": "S008",
-      "name": "Citra Wibowo",
-      "age": 16,
-      "class": "X RPL 1",
-      "grades": {
-        "Math": 97,
-        "English": 100,
-        "Informatics": 88,
-        "Science": 95
-      }
+    }
   ]
